@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         baidu
-// @namespace    http://jeasonstudio.cn/
+// @name         baiduSearch
+// @namespace    https://github.com/jeasonstudio/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        http://www.baidu.com/
+// @description  Hey
+// @author       Jeason
+// @match        https://www.baidu.com/*
 // @grant        none
 // ==/UserScript==
 function judgeAdd(idChar) {
