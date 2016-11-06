@@ -5,7 +5,7 @@
 // @description  Hey
 // @author       Jeason
 // @match        https://tieba.baidu.com/
-// @include        https://tieba.baidu.com/
+// @include      https://tieba.baidu.com/
 // @grant        none
 // ==/UserScript==
 
