@@ -5,8 +5,10 @@
 // @description  Hey
 // @author       Jeason
 // @match        https://www.baidu.com/*
+// @include      https://www.baidu.com/*
 // @grant        none
 // ==/UserScript==
+
 function judgeAdd(idChar) {
     var arr = idChar.split("");
     if ((arr[0] == '3' || arr[0] == '5') && arr.length == 4) {
